@@ -1,0 +1,370 @@
+{
+    "adult": false,
+    "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+    "belongs_to_collection": {
+        "id": 529892,
+        "name": "Black Panther Collection",
+        "poster_path": "/uVnN6KnfDuHiC8rsVsSc7kk0WRD.jpg",
+        "backdrop_path": "/1Jj7Frjjbewb6Q6dl6YXhL3kuvL.jpg"
+    },
+    "budget": 200000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://marvel.com/movies/movie/224/black_panther",
+    "id": 284054,
+    "imdb_id": "tt1825683",
+    "original_language": "en",
+    "original_title": "Black Panther",
+    "overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+    "popularity": 152.589,
+    "poster_path": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-02-13",
+    "revenue": 1346739107,
+    "runtime": 134,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+        },
+        {
+            "english_name": "Swahili",
+            "iso_639_1": "sw",
+            "name": "Kiswahili"
+        },
+        {
+            "english_name": "Xhosa",
+            "iso_639_1": "xh",
+            "name": ""
+        }
+    ],
+    "status": "Released",
+    "tagline": "Long live the king.",
+    "title": "Black Panther",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 18509,
+    "releases": {
+        "countries": [
+            {
+                "certification": "12A",
+                "iso_3166_1": "GB",
+                "primary": false,
+                "release_date": "2018-02-09"
+            },
+            {
+                "certification": "PG-13",
+                "iso_3166_1": "US",
+                "primary": false,
+                "release_date": "2018-01-29"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "ZA",
+                "primary": false,
+                "release_date": "2018-02-16"
+            },
+            {
+                "certification": "12",
+                "iso_3166_1": "DE",
+                "primary": false,
+                "release_date": "2018-02-15"
+            },
+            {
+                "certification": "PG-13",
+                "iso_3166_1": "US",
+                "primary": false,
+                "release_date": "2018-02-16"
+            },
+            {
+                "certification": "12A",
+                "iso_3166_1": "GB",
+                "primary": false,
+                "release_date": "2018-02-13"
+            },
+            {
+                "certification": "14",
+                "iso_3166_1": "BR",
+                "primary": false,
+                "release_date": "2018-02-15"
+            },
+            {
+                "certification": "11",
+                "iso_3166_1": "SE",
+                "primary": false,
+                "release_date": "2018-02-14"
+            },
+            {
+                "certification": "12",
+                "iso_3166_1": "ES",
+                "primary": false,
+                "release_date": "2018-02-16"
+            },
+            {
+                "certification": "U",
+                "iso_3166_1": "FR",
+                "primary": false,
+                "release_date": "2018-02-14"
+            },
+            {
+                "certification": "12+",
+                "iso_3166_1": "UA",
+                "primary": false,
+                "release_date": "2018-02-15"
+            },
+            {
+                "certification": "הותר לכל הגילאים",
+                "iso_3166_1": "IL",
+                "primary": false,
+                "release_date": "2018-02-15"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "HK",
+                "primary": false,
+                "release_date": "2018-02-13"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "AR",
+                "primary": false,
+                "release_date": "2018-02-15"
+            },
+            {
+                "certification": "12",
+                "iso_3166_1": "NL",
+                "primary": false,
+                "release_date": "2018-02-14"
+            },
+            {
+                "certification": "M",
+                "iso_3166_1": "AU",
+                "primary": false,
+                "release_date": "2018-02-15"
+            },
+            {
+                "certification": "12",
+                "iso_3166_1": "HU",
+                "primary": false,
+                "release_date": "2018-02-15"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "NZ",
+                "primary": false,
+                "release_date": "2018-02-15"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "GR",
+                "primary": false,
+                "release_date": "2018-02-15"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "SG",
+                "primary": false,
+                "release_date": "2018-02-15"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "TR",
+                "primary": false,
+                "release_date": "2018-02-16"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "TH",
+                "primary": false,
+                "release_date": "2018-02-15"
+            },
+            {
+                "certification": "11",
+                "iso_3166_1": "DK",
+                "primary": false,
+                "release_date": "2018-02-15"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "CH",
+                "primary": false,
+                "release_date": "2018-02-14"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "JP",
+                "primary": false,
+                "release_date": "2018-03-01"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "IN",
+                "primary": false,
+                "release_date": "2018-02-16"
+            },
+            {
+                "certification": "EA",
+                "iso_3166_1": "BE",
+                "primary": false,
+                "release_date": "2018-02-14"
+            },
+            {
+                "certification": "16+",
+                "iso_3166_1": "RU",
+                "primary": false,
+                "release_date": "2018-02-26"
+            },
+            {
+                "certification": "T",
+                "iso_3166_1": "IT",
+                "primary": false,
+                "release_date": "2018-02-14"
+            },
+            {
+                "certification": "12",
+                "iso_3166_1": "KR",
+                "primary": false,
+                "release_date": "2018-02-14"
+            },
+            {
+                "certification": "12",
+                "iso_3166_1": "AT",
+                "primary": false,
+                "release_date": "2018-02-15"
+            },
+            {
+                "certification": "PG",
+                "iso_3166_1": "CA",
+                "primary": false,
+                "release_date": "2018-02-16"
+            },
+            {
+                "certification": "K-12",
+                "iso_3166_1": "FI",
+                "primary": false,
+                "release_date": "2018-02-16"
+            },
+            {
+                "certification": "M/12",
+                "iso_3166_1": "PT",
+                "primary": false,
+                "release_date": "2018-02-15"
+            },
+            {
+                "certification": "N-13",
+                "iso_3166_1": "LT",
+                "primary": false,
+                "release_date": "2018-02-16"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "CN",
+                "primary": false,
+                "release_date": "2018-03-09"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "CZ",
+                "primary": false,
+                "release_date": "2018-02-15"
+            },
+            {
+                "certification": "保護級",
+                "iso_3166_1": "TW",
+                "primary": false,
+                "release_date": "2018-02-13"
+            },
+            {
+                "certification": "B",
+                "iso_3166_1": "MX",
+                "primary": false,
+                "release_date": "2018-02-16"
+            },
+            {
+                "certification": "12A",
+                "iso_3166_1": "IE",
+                "primary": false,
+                "release_date": "2018-02-13"
+            },
+            {
+                "certification": "14",
+                "iso_3166_1": "BR",
+                "primary": false,
+                "release_date": "2018-05-16"
+            },
+            {
+                "certification": "12",
+                "iso_3166_1": "NL",
+                "primary": false,
+                "release_date": "2018-06-20"
+            },
+            {
+                "certification": "12",
+                "iso_3166_1": "AT",
+                "primary": false,
+                "release_date": "2018-07-19"
+            },
+            {
+                "certification": "PG-13",
+                "iso_3166_1": "US",
+                "primary": false,
+                "release_date": "2018-05-15"
+            },
+            {
+                "certification": "T",
+                "iso_3166_1": "IT",
+                "primary": false,
+                "release_date": "2018-05-30"
+            },
+            {
+                "certification": "12",
+                "iso_3166_1": "GB",
+                "primary": false,
+                "release_date": "2018-06-11"
+            },
+            {
+                "certification": "11",
+                "iso_3166_1": "SE",
+                "primary": false,
+                "release_date": "2018-06-29"
+            },
+            {
+                "certification": "12",
+                "iso_3166_1": "NL",
+                "primary": false,
+                "release_date": "2018-06-21"
+            }
+        ]
+    }
+}

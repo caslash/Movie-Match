@@ -1,0 +1,338 @@
+{
+    "adult": false,
+    "backdrop_path": "/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
+    "belongs_to_collection": null,
+    "budget": 200000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.marvel.com/movies/the-eternals",
+    "id": 524434,
+    "imdb_id": "tt9032400",
+    "original_language": "en",
+    "original_title": "Eternals",
+    "overview": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.",
+    "popularity": 11856.588,
+    "poster_path": "/b6qUu00iIIkXX13szFy7d0CyNcg.jpg",
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-11-03",
+    "revenue": 401842256,
+    "runtime": 156,
+    "spoken_languages": [
+        {
+            "english_name": "Arabic",
+            "iso_639_1": "ar",
+            "name": "العربية"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+        },
+        {
+            "english_name": "Latin",
+            "iso_639_1": "la",
+            "name": "Latin"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "In the beginning...",
+    "title": "Eternals",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 2966,
+    "releases": {
+        "countries": [
+            {
+                "certification": "",
+                "iso_3166_1": "IT",
+                "primary": false,
+                "release_date": "2021-10-24"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "US",
+                "primary": false,
+                "release_date": "2021-10-18"
+            },
+            {
+                "certification": "13+",
+                "iso_3166_1": "TR",
+                "primary": false,
+                "release_date": "2021-11-05"
+            },
+            {
+                "certification": "PG-13",
+                "iso_3166_1": "US",
+                "primary": false,
+                "release_date": "2021-11-05"
+            },
+            {
+                "certification": "M",
+                "iso_3166_1": "AU",
+                "primary": false,
+                "release_date": "2021-11-04"
+            },
+            {
+                "certification": "12",
+                "iso_3166_1": "ES",
+                "primary": false,
+                "release_date": "2021-11-05"
+            },
+            {
+                "certification": "U",
+                "iso_3166_1": "FR",
+                "primary": false,
+                "release_date": "2021-11-03"
+            },
+            {
+                "certification": "12A",
+                "iso_3166_1": "GB",
+                "primary": false,
+                "release_date": "2021-11-05"
+            },
+            {
+                "certification": "12+",
+                "iso_3166_1": "CZ",
+                "primary": false,
+                "release_date": "2021-11-04"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "CH",
+                "primary": false,
+                "release_date": "2021-11-03"
+            },
+            {
+                "certification": "12",
+                "iso_3166_1": "KR",
+                "primary": false,
+                "release_date": "2021-11-03"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "SK",
+                "primary": false,
+                "release_date": "2021-11-04"
+            },
+            {
+                "certification": "12+",
+                "iso_3166_1": "UA",
+                "primary": false,
+                "release_date": "2021-11-04"
+            },
+            {
+                "certification": "12",
+                "iso_3166_1": "NL",
+                "primary": false,
+                "release_date": "2021-11-03"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "PL",
+                "primary": false,
+                "release_date": "2021-11-05"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "CA",
+                "primary": false,
+                "release_date": "2021-11-05"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "FI",
+                "primary": false,
+                "release_date": "2021-11-05"
+            },
+            {
+                "certification": "12",
+                "iso_3166_1": "BR",
+                "primary": false,
+                "release_date": "2021-11-04"
+            },
+            {
+                "certification": "18+",
+                "iso_3166_1": "RU",
+                "primary": false,
+                "release_date": "2021-11-08"
+            },
+            {
+                "certification": "T",
+                "iso_3166_1": "IT",
+                "primary": false,
+                "release_date": "2021-11-03"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "NZ",
+                "primary": false,
+                "release_date": "2021-11-04"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "HK",
+                "primary": false,
+                "release_date": "2021-11-03"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "BE",
+                "primary": false,
+                "release_date": "2021-11-03"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "JP",
+                "primary": false,
+                "release_date": "2021-11-05"
+            },
+            {
+                "certification": "M/12",
+                "iso_3166_1": "PT",
+                "primary": false,
+                "release_date": "2021-11-04"
+            },
+            {
+                "certification": "保護級",
+                "iso_3166_1": "TW",
+                "primary": false,
+                "release_date": "2021-11-03"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "AT",
+                "primary": false,
+                "release_date": "2021-11-03"
+            },
+            {
+                "certification": "12",
+                "iso_3166_1": "DE",
+                "primary": false,
+                "release_date": "2021-11-04"
+            },
+            {
+                "certification": "11",
+                "iso_3166_1": "SE",
+                "primary": false,
+                "release_date": "2021-11-03"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "MK",
+                "primary": false,
+                "release_date": "2021-11-04"
+            },
+            {
+                "certification": "12",
+                "iso_3166_1": "HU",
+                "primary": false,
+                "release_date": "2021-11-04"
+            },
+            {
+                "certification": "M18",
+                "iso_3166_1": "SG",
+                "primary": false,
+                "release_date": "2021-11-04"
+            },
+            {
+                "certification": "12A",
+                "iso_3166_1": "IE",
+                "primary": false,
+                "release_date": "2021-11-05"
+            },
+            {
+                "certification": "A.P. - 12",
+                "iso_3166_1": "RO",
+                "primary": false,
+                "release_date": "2021-11-05"
+            },
+            {
+                "certification": "",
+                "iso_3166_1": "GR",
+                "primary": false,
+                "release_date": "2021-11-04"
+            },
+            {
+                "certification": "PG-13",
+                "iso_3166_1": "US",
+                "primary": false,
+                "release_date": "2022-01-12"
+            },
+            {
+                "certification": "12",
+                "iso_3166_1": "DE",
+                "primary": false,
+                "release_date": "2022-01-12"
+            },
+            {
+                "certification": "12",
+                "iso_3166_1": "BR",
+                "primary": false,
+                "release_date": "2022-01-12"
+            },
+            {
+                "certification": "M",
+                "iso_3166_1": "AU",
+                "primary": false,
+                "release_date": "2022-01-12"
+            },
+            {
+                "certification": "12",
+                "iso_3166_1": "DE",
+                "primary": false,
+                "release_date": "2022-02-24"
+            },
+            {
+                "certification": "PG-13",
+                "iso_3166_1": "US",
+                "primary": false,
+                "release_date": "2022-02-15"
+            },
+            {
+                "certification": "M",
+                "iso_3166_1": "AU",
+                "primary": false,
+                "release_date": "2022-02-02"
+            }
+        ]
+    }
+}

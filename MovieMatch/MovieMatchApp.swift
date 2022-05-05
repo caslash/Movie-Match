@@ -12,6 +12,7 @@ struct MovieMatchApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(ModelData.shared)
         }
     }
 }

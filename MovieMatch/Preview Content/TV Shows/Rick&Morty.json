@@ -1,0 +1,239 @@
+{
+    "adult": false,
+    "backdrop_path": "/8aCek7W6BovH7M4enWjqrGptvQ8.jpg",
+    "created_by": [
+        {
+            "id": 57194,
+            "credit_id": "57bf826fc3a3684d25001b3c",
+            "name": "Dan Harmon",
+            "gender": 2,
+            "profile_path": "/aGGlW2R9VD6DNzzAXFsZGLcJaDl.jpg"
+        },
+        {
+            "id": 1245733,
+            "credit_id": "57bf827dc3a3684d3400183e",
+            "name": "Justin Roiland",
+            "gender": 2,
+            "profile_path": "/wYApP38aXe6ZcEtlBAfNRxJTQQi.jpg"
+        }
+    ],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2013-12-02",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "http://www.adultswim.com/videos/rick-and-morty",
+    "id": 60625,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-09-05",
+    "last_episode_to_air": {
+        "air_date": "2021-09-05",
+        "episode_number": 10,
+        "id": 2991276,
+        "name": "Rickmurai Jack",
+        "overview": "Rick is living his best anime life, making new friends and taking down new enemies.",
+        "production_code": "",
+        "season_number": 5,
+        "still_path": "/6yPSy0ipNQfFUAX3tHSEf75rCdu.jpg",
+        "vote_average": 6.8,
+        "vote_count": 9
+    },
+    "name": "Rick and Morty",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Adult Swim",
+            "id": 80,
+            "logo_path": "/2ezVEkNx1tvBLONzDcViyfovWBH.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 51,
+    "number_of_seasons": 5,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Rick and Morty",
+    "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+    "popularity": 528.279,
+    "poster_path": "/8kOWDBK6XlPUzckuHDo3wwVRFwt.jpg",
+    "production_companies": [
+        {
+            "id": 6760,
+            "logo_path": "/qKLBuZa4Z4fKH8xHvCUsb5EIDx3.png",
+            "name": "Williams Street",
+            "origin_country": "US"
+        },
+        {
+            "id": 8300,
+            "logo_path": null,
+            "name": "Harmonius Claptrap",
+            "origin_country": "US"
+        },
+        {
+            "id": 47394,
+            "logo_path": null,
+            "name": "Justin Roiland's Solo Vanity Card Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 32542,
+            "logo_path": null,
+            "name": "Starburns Industries",
+            "origin_country": "US"
+        },
+        {
+            "id": 131124,
+            "logo_path": null,
+            "name": "Green Portal Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-10-25",
+            "episode_count": 24,
+            "id": 106178,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/3my0MrOKCSYMw8VfLiiM9k00bdF.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-12-02",
+            "episode_count": 11,
+            "id": 60059,
+            "name": "Season 1",
+            "overview": "Rick and Morty visit a pawn shop in space, encounter various alternate and virtual realities, and meet the devil at his antique shop.",
+            "poster_path": "/8BXUZ0nnR3DZsf30DYMFHfuTxxi.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2015-07-26",
+            "episode_count": 10,
+            "id": 66738,
+            "name": "Season 2",
+            "overview": "After Rick and Morty decided to unfreeze time, they must deal with alien parasites, alternate Jerrys and a decaying, possibly non-existent dimension.",
+            "poster_path": "/xcYamBmQmSCpl9L1B5ihesnR1Gb.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2017-04-01",
+            "episode_count": 10,
+            "id": 86926,
+            "name": "Season 3",
+            "overview": "Rick and Morty travel to Atlantis and take some time to relax, plus Rick turns himself into a pickle and faces off against the president.",
+            "poster_path": "/rX55zDxWkNuG4wyQyfMBkSk75df.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2019-11-10",
+            "episode_count": 10,
+            "id": 128112,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": "/87abbwoOfm5MMCWoFewN8pNGZxW.jpg",
+            "season_number": 4
+        },
+        {
+            "air_date": "2021-06-20",
+            "episode_count": 10,
+            "id": 188470,
+            "name": "Season 5",
+            "overview": "",
+            "poster_path": "/jF8ws5cG5a9k7QGilWeugfx9SoI.jpg",
+            "season_number": 5
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Science makes sense, family doesn't.",
+    "type": "Scripted",
+    "vote_average": 8.8,
+    "vote_count": 6025,
+    "content_ratings": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "rating": "16"
+            },
+            {
+                "iso_3166_1": "US",
+                "rating": "TV-MA"
+            },
+            {
+                "iso_3166_1": "CA",
+                "rating": "14+"
+            },
+            {
+                "iso_3166_1": "AU",
+                "rating": "MA15+"
+            },
+            {
+                "iso_3166_1": "FR",
+                "rating": "10"
+            },
+            {
+                "iso_3166_1": "RU",
+                "rating": "18+"
+            },
+            {
+                "iso_3166_1": "KR",
+                "rating": "19"
+            },
+            {
+                "iso_3166_1": "GB",
+                "rating": "15"
+            },
+            {
+                "iso_3166_1": "BR",
+                "rating": "16"
+            },
+            {
+                "iso_3166_1": "NL",
+                "rating": "12"
+            },
+            {
+                "iso_3166_1": "PT",
+                "rating": "M/16"
+            },
+            {
+                "iso_3166_1": "ES",
+                "rating": "16"
+            }
+        ]
+    }
+}
